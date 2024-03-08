@@ -1,0 +1,13 @@
+import java.util.Scanner;
+
+public class EjercicioClaseDulces {
+	public static void main(String[] args) {
+	
+		int numeroDulces = ntrada.nextInt();
+		System.out.println("Número de dulces ");
+		
+		
+		
+	}
+	
+}
